@@ -60,6 +60,7 @@ class WebCrawler:
         return set(inbound), set(outbound)
 
     def register_results(self, url, depth, status):
+        url = self.get_clean_url(url)
         self.link_data[url] = {
             'url': url,
             'depth': depth,

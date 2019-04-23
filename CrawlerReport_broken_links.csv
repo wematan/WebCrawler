@@ -1,69 +1,36 @@
 url,depth,status
-http://www.linkedin.com/company/guardicore,1,999
-http://www.scmagazine.com/guardicore-centra/review/9324/,1,403
-http://www.linkedin.com/in/ofer-wolf-b7284212/,6,999
-http://www.linkedin.com/in/hervebourgeois,6,999
-http://www.linkedin.com/in/tobinscott,6,999
-http://www.linkedin.com/in/ram-metser-b2823b174/,6,999
-http://www.linkedin.com/in/dror-sal-ee-48377,6,999
-http://www.linkedin.com/in/ola-sergatchov-9521b1/,6,999
-http://www.linkedin.com/in/davidburton07,6,999
-http://www.linkedin.com/in/pavelgurvich,6,999
-http://www.linkedin.com/in/besser,6,999
-http://www.linkedin.com/in/yaron-bartov-5b72b721,6,999
-http://www.linkedin.com/in/ehud-weinstein-70a09486,6,999
-http://www.linkedin.com/in/ilanstern,6,999
-http://www.linkedin.com/in/ofri-ziv-353a98135,6,999
-http://www.linkedin.com/in/nathanperdue,6,999
-http://www.linkedin.com/in/chrisgaebler/,6,999
-http://il.linkedin.com/in/erezofer,6,999
-http://www.linkedin.com/in/ori-aldor-6b86684,6,999
-http://www.linkedin.com/in/ariel-zeitlin-8861a9b,6,999
-http://www.brighttalk.com/webcast/15957/310441,8,Connection Refused
-http://www.brighttalk.com/webcast/11833/224495?utm_campaign=webcasts-search-results-feed&utm_content=guardicore&utm_source=brighttalk-portal&utm_medium=web,8,Connection Refused
-http://www.brighttalk.com/webcast/10903/333388?utm_campaign=webcasts-search-results-feed&utm_content=guardicore&utm_source=brighttalk-portal&utm_medium=web,8,Connection Refused
-http://www.brighttalk.com/webcast/15957/300515?utm_source=Web&utm_medium=brighttalk&utm_campaign=300515,8,Connection Refused
-http://www.brighttalk.com/webcast/15957/301997?utm_source=Web&utm_medium=brighttalk&utm_campaign=300515,8,Connection Refused
-http://www.brighttalk.com/webcast/288/331070?utm_campaign=webcasts-search-results-feed&utm_content=guardicore&utm_source=brighttalk-portal&utm_medium=web,8,Connection Refused
-http://www.brighttalk.com/webcast/15509/306415?utm_campaign=webcasts-search-results-feed&utm_content=guardicore&utm_source=brighttalk-portal&utm_medium=web,8,Connection Refused
-http://www.brighttalk.com/webcast/288/334548?utm_campaign=webcasts-search-results-feed&utm_content=guardicore&utm_source=brighttalk-portal&utm_medium=web,8,Connection Refused
-http://www.brighttalk.com/webcast/288/279293?utm_campaign=webcasts-search-results-feed&utm_content=guardicore&utm_source=brighttalk-portal&utm_medium=web,8,Connection Refused
-http://www.brighttalk.com/webcast/288/337374?utm_campaign=webcasts-search-results-feed&utm_content=guardicore&utm_source=brighttalk-portal&utm_medium=web,8,Connection Refused
-http://www.brighttalk.com/webcast/15957/330982/cryptojacking-preventing-your-resources-from-getting-hijacked,8,Connection Refused
-http://summits.brighttalk.com/webinar/the-state-of-cyber-resiliency-in-the-age-of-attacks/?utm_source=guardicore,8,403
-http://www.brighttalk.com/webcast/15957/330040?utm_campaign=webcasts-search-results-feed&utm_content=guardicore&utm_source=brighttalk-portal&utm_medium=web,8,Connection Refused
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/GuardiCore_SolutionBrief_CHKP_vSec_2.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/GuardiCore_SC_Review_February-2018-Feature.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/150827-DataCenterSecuritySuiteforVMwareNSX_TechnicalBrief.pdf,8,404
-http://www.guardicore.com/resources/guide-choosing-micro-segmentation-solution///wp-content/uploads/2019/02/GuardiCore_SC_Review_February-2018-Feature.pdf,9,404
-http://www.guardicore.com/blog/&t=Blog,12,404
-http://connect.redhat.com/partners/guardicore,18,Connection Refused
-http://www.guardicore.com/partners/technology-partners///wp-content/uploads/2015/12/150827-DataCenterSecuritySuiteforVMwareNSX_TechnicalBrief.pdf,18,404
-http://www.guardicore.com/partners/technology-partners///wp-content/uploads/2015/12/151113-DataCenterSecuritySuiteforDocker.pdf,18,404
-http://www.guardicore.com/partners/technology-partners///wp-content/uploads/2015/12/NN_GuardiCore_Joint_PartnerSolutionBrief.pdf,18,404
-http://www.guardicore.com/partners/technology-partners///wp-content/uploads/2015/12/sb-checkpoint-guardicore1.pdf,18,404
-http://www.guardicore.com/partners/technology-partners///wp-content/uploads/2016/06/GuardiCore_Nutanix_Solution-Brief_160616.pdf,18,404
-http://www.guardicore.com/use-cases/micro-segmentation///wp-content/uploads/2018/02/Solution-Brief_GuardiCore-Micro-Segmentation.pdf,14,404
-http://www.guardicore.com/use-cases/micro-segmentation///wp-content/uploads/2018/02/GuardiCore_SC_Review_February-2018-Feature.pdf,14,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/GuardiCore-Openlink-Case-Study.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/REBOOT_SC_Guardicore.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/Blue_Bastian_Case_Study_GuardiCore.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/GuardiCore_Container_Security_SolBrief.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/guardicore_casestudy_beckmancoulter.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/Guardicore-Gigamon-Protect-Data-Centers.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/GuardiCore_Centra_DataSheet.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/Guardicore_SolBrief_Reputation_1.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/GuardiCore_SolBrief_Reveal_2.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2018/11/GuardiCore_Security_Gaps_Hybrid_Cloud_MSSP.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/Resources_GuardiCore_Safeguard-your-assets-with-Nuage-Networks-VSP-and-GuardiCore-SolutionBrief.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/Guardicore_CaseStudy_GenomeOne.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/aws-solution-brief-.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/Guardicore_SolutionBrief_Nutanix.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/Solution-Brief_GuardiCore-Micro-Segmentation.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/Guardicore_CaseStudy_Optimal.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/Resources_GuardiCore_Healthcare_SolutionBrief.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/Guardicore_SolBrief_SegmentationPolicy_1.pdf,8,404
-http://www.guardicore.com/resources///wp-content/uploads/2019/02/Guardicore_SolBrief_Deception_1.pdf,8,404
-http://www.guardicore.com///workloads-protection-hybrid-clouds///wp-content/uploads/2018/02/GuardiCore_SC_Review_February-2018-Feature.pdf,3,Connection Refused
-http://www.guardicore.com///workloads-protection-hybrid-clouds///wp-content/uploads/2017/11/2017-11-22_Guardicore_Micro-SegmentationStrategyGuide.pdf,3,404
-http://www.guardicore.com///workloads-protection-hybrid-clouds///wp-content/uploads/2018/05/GuardiCore_Centra_DataSheet.pdf,3,404
+www.linkedin.com/company/guardicore,1,999
+www.scmagazine.com/guardicore-centra/review/9324/,1,403
+www.guardicore.com/use-cases/micro-segmentation/,1,Timeout
+www.guardicore.com/use-cases/micro-segmentation/wp-content/uploads/2018/02/Solution-Brief_GuardiCore-Micro-Segmentation.pdf,4,404
+www.guardicore.com/support/wp-content/uploads/2019/02/GuardiCore-EULA-18Feb16.pdf,5,404
+summits.brighttalk.com/webinar/the-state-of-cyber-resiliency-in-the-age-of-attacks/?utm_source=guardicore,6,403
+www.guardicore.com/resources/wp-content/uploads/2019/02/Guardicore_SolBrief_Reputation_1.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/Blue_Bastian_Case_Study_GuardiCore.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/GuardiCore_SolutionBrief_CHKP_vSec_2.pdf,6,404
+www.guardicore.com/blog/&t=Blog,12,404
+www.guardicore.com/micro-segmentation/application-segmentation/&t=Application%20Segmentation,16,404
+www.guardicore.com/2018/08/streamlining-pci-compliance-within-your-organization/&t=Streamlining%20the%20Process%20to%20Maintain%20a%20PCI%20Compliant%20Data%20Center%20for%20Your%20Organization,17,404
+www.guardicore.com/2018/02/why-native-cloud-controls-are-not-enough-for-micro-segmentation/&t=Why%20Native%20Cloud%20Controls%20Are%20Not%20Enough%20for%20Meaningful%20Micro-Segmentation,20,404
+www.guardicore.com/2019/03/understanding-and-avoiding-security-misconfiguration/&t=Understanding%20and%20Avoiding%20Security%20Misconfiguration,23,404
+www.cnet.com/news/exactis-340-million-people-may-have-been-exposed-in-bigger-breach-than-equifax/”,22,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/Guardicore_SolutionBrief_Nutanix.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/Guardicore_SolBrief_Deception_1.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/Guardicore-Gigamon-Protect-Data-Centers.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/GuardiCore_Container_Security_SolBrief.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/GuardiCore_SC_Review_February-2018-Feature.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/GuardiCore-Openlink-Case-Study.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/Resources_GuardiCore_Safeguard-your-assets-with-Nuage-Networks-VSP-and-GuardiCore-SolutionBrief.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2018/11/GuardiCore_Security_Gaps_Hybrid_Cloud_MSSP.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/Guardicore_CaseStudy_Optimal.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/150827-DataCenterSecuritySuiteforVMwareNSX_TechnicalBrief.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/GuardiCore_Centra_DataSheet.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/GuardiCore_SolBrief_Reveal_2.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/aws-solution-brief-.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/Guardicore_CaseStudy_GenomeOne.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/Guardicore_SolBrief_SegmentationPolicy_1.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/Resources_GuardiCore_Healthcare_SolutionBrief.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/REBOOT_SC_Guardicore.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/Solution-Brief_GuardiCore-Micro-Segmentation.pdf,6,404
+www.guardicore.com/resources/wp-content/uploads/2019/02/guardicore_casestudy_beckmancoulter.pdf,6,404
+www.guardicore.com/use-cases/micro-segmentation/wp-content/uploads/2018/02/GuardiCore_SC_Review_February-2018-Feature.pdf,4,404
