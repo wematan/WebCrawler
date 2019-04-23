@@ -20,7 +20,7 @@ class CrawlerWorker:
         headers = {'Accept-Encoding': 'identity'}
         url = "http://" + url.split("://")[-1]
         try:
-            res = requests.get(url, headers=headers, timeout=1)
+            res = requests.get(url, headers=headers)
         except:
             return url, [], "Timeout" ,images
         if res.status_code != 200:
