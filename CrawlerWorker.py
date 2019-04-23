@@ -20,9 +20,9 @@ class CrawlerWorker:
         headers = {'Accept-Encoding': 'identity'}
         url = "http://" + url.split("://")[-1]
         try:
-            res = requests.get(url, headers=headers, timeout=10)
-        except requests.exceptions.ConnectionError or requests.exceptions.Timeout:
-            return url, [], "Connection Refused" ,images
+            res = requests.get(url, headers=headers, timeout=1)
+        except:
+            return url, [], "Timeout" ,images
         if res.status_code != 200:
             return url, [], res.status_code ,images
         soup = BeautifulSoup(res.content, "lxml")

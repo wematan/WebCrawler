@@ -52,7 +52,7 @@ class WebCrawler:
         inbound = []
         outbound = []
         for url in urls:
-            if url.split("://")[-1] not in map(lambda u: u.split('://')[-1], self.link_data.keys()):
+            if self.get_clean_url(url) not in [self.get_clean_url(u) for u in self.link_data.keys()]:
                 if self.base_url == url or urlparse(self.base_url).geturl() == urlparse(url).hostname:
                     inbound.append(url)
                 else:
