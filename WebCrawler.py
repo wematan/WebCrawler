@@ -2,6 +2,7 @@ import os
 import sys
 import argparse
 import math
+import re
 import hashlib
 md5 = hashlib.md5
 
@@ -72,10 +73,15 @@ class WebCrawler:
                 self.image_data[img] = digest
             else:
                 for im, dig in self.image_data.items():
-                    if dig == digest and im != img:
+                    if dig == digest and self.get_clean_url(im) != self.get_clean_url(img):
                         print("\nDuplicate images - %s == %s" % (img, im))
                         break
         return
+
+    def get_clean_url(self, url):
+        ret_val = url.split("://")[-1]
+        ret_val = re.sub("/{2,}", "/", ret_val)
+        return ret_val
 
     def data(self):
         return self.link_data
