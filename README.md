@@ -2,7 +2,7 @@
 Multi-Process Python Web Crawler
 
 ### Usage:
-WebCrawler.py -i <URL> -o <output-name-prefix>
+WebCrawler.py -i \<URL\> -o \<output-name-prefix\>
 
 ### Outputs:
 ##### * csv report of all links in website and thier depth.
